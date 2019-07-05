@@ -2,7 +2,7 @@
 
 IPL Data Visualisation Challenge from Machinehack.com. I have taken the IPL datset from Machinehack challenge and it has Indian Premier League cricket data from 2008 - 2018. The purpose of this project is to analysis and create beautiful visualization using Tableau.
 
-The entire visalization done in Tableau. All graphs can be found in 
+The entire visalization done in Tableau. All graphs can be found in https://public.tableau.com/profile/dhilip.subramanian#!/
 
 The repository is structured as follows:
 
